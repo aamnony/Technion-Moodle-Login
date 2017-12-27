@@ -1,0 +1,1 @@
+location.replace('https://moodle.technion.ac.il/auth/shibboleth/index.php');
